@@ -1,2 +1,2 @@
-console.log("Hello Sérgio!\n")
-console.log ("Hello Emanoela")
+console.log("Hello Sérgio Almeida!\n")
+console.log ("Hello Emanoela Almeida")
